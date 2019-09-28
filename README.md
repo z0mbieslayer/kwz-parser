@@ -14,7 +14,7 @@ Utilities
 kwzImage
 Converts specific kwz frames as well folder icons and Flipnote Gallery World comments (.kwc) to standard image formats such as png, gif, jpeg, etc. Requires the Pillow module to be installed.
 
-Usage:
+<h3>Usage:</h3>
 
 python kwzImage.py <input path> <frame index> <output path>
 <frame index>:
